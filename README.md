@@ -13,13 +13,12 @@ Please cite our paper if you find it helpful.
     year = "2020",
 }
 ```
-This repository is mainly contributed by Bairu Hou and Yuan Zang. To run our WSD model or use the WSD dataset, please refer to the following instructions.
+This repository is mainly contributed by Bairu Hou, Fanchao Qi and Yuan Zang. To run our WSD model or use the WSD dataset, please refer to the following instructions.
 
 ## Key Environment
 - torch==1.3.1
 - torchvision==0.4.2
 - transformers==2.8.0
-- scikit-learn==0.22
 - OpenHowNet==0.0.1a8
 Make sure you have run the following codes to complete the installation of `OpenHowNet` before running any codes in this repo.
 ```python
